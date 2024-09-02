@@ -54,6 +54,6 @@ C:\Users\SoftClansUser\OneDrive\Desktop\Personal\EManagementLibrary\EManagementL
 C:\Users\SoftClansUser\OneDrive\Desktop\Personal\EManagementLibrary\EManagementLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\SoftClansUser\OneDrive\Desktop\Personal\EManagementLibrary\EManagementLibrary\obj\Debug\EManagementLibrary.csproj.AssemblyReference.cache
 C:\Users\SoftClansUser\OneDrive\Desktop\Personal\EManagementLibrary\EManagementLibrary\obj\Debug\EManagementLibrary.csproj.CoreCompileInputs.cache
-C:\Users\SoftClansUser\OneDrive\Desktop\Personal\EManagementLibrary\EManagementLibrary\obj\Debug\EManagementLibrary.csproj.CopyComplete
 C:\Users\SoftClansUser\OneDrive\Desktop\Personal\EManagementLibrary\EManagementLibrary\obj\Debug\EManagementLibrary.dll
 C:\Users\SoftClansUser\OneDrive\Desktop\Personal\EManagementLibrary\EManagementLibrary\obj\Debug\EManagementLibrary.pdb
+C:\Users\SoftClansUser\OneDrive\Desktop\Personal\EManagementLibrary\EManagementLibrary\obj\Debug\EManagem.91492A22.Up2Date
