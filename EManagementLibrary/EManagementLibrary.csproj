@@ -68,6 +68,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Admin Login Page.aspx" />
+    <Content Include="AdminAuthorManagement.aspx" />
+    <Content Include="AdminPublisherManagement.aspx" />
     <Content Include="bootstrap\css\bootstrap.min.css" />
     <Content Include="bootstrap\js\bootstrap.bundle.min.js" />
     <Content Include="bootstrap\js\bootstrap.min.js" />
@@ -2190,6 +2192,20 @@
     </Compile>
     <Compile Include="Admin Login Page.aspx.designer.cs">
       <DependentUpon>Admin Login Page.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdminAuthorManagement.aspx.cs">
+      <DependentUpon>AdminAuthorManagement.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdminAuthorManagement.aspx.designer.cs">
+      <DependentUpon>AdminAuthorManagement.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdminPublisherManagement.aspx.cs">
+      <DependentUpon>AdminPublisherManagement.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdminPublisherManagement.aspx.designer.cs">
+      <DependentUpon>AdminPublisherManagement.aspx</DependentUpon>
     </Compile>
     <Compile Include="HomePage.aspx.cs">
       <DependentUpon>HomePage.aspx</DependentUpon>
